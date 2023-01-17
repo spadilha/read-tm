@@ -5,7 +5,7 @@
 	},
 	"manifest_version": 3,
 	"version": "0.1",
-	"description": "Turns the page red when you click the icon",
+	"description": "Read this shit!",
 	"permissions": ["activeTab", "scripting"],
 	"background": {
 		"service_worker": "read.js"
